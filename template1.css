@@ -1,0 +1,44 @@
+li {
+	font-size: 40px;
+	color: green;
+}
+
+table {
+	font-size: 60px;
+	border: 1px solid black;
+}
+
+td {
+	border: 1px solid blue;
+	
+}
+
+#id1 {
+	width: 100px;
+	height: 200px;
+	background-color: yellow;
+	
+}
+
+#id2 {
+	width: 1000px;
+	height: 2000px;
+	background-color: blue;
+	
+}
+
+.class1 {
+	font-family: serif;
+	font-size: 100px;
+}
+
+.class1:hover {
+	font-family: serif;
+	font-size: 100px;
+	color: red;
+}
+
+div < div {
+	font-size: 200px;
+	color: blue;
+}
